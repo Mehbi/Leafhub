@@ -1,0 +1,8 @@
+click\mevi\dev\leafhub\core\objects\Lobby$LobbyBuilder.class
+click\mevi\dev\leafhub\core\interfaces\CrudRepository.class
+click\mevi\dev\leafhub\core\database\SQLite.class
+click\mevi\dev\leafhub\core\registries\RepositoryRegistry.class
+click\mevi\dev\leafhub\core\objects\Lobby.class
+click\mevi\dev\leafhub\Leafhub.class
+click\mevi\dev\leafhub\core\interfaces\PluginService.class
+click\mevi\dev\leafhub\core\repositories\LobbyRepository.class
